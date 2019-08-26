@@ -24,4 +24,5 @@ end
 
 def square_root(num)
   sq = num ** 0.5
+  p sq
 end
